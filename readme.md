@@ -17,4 +17,13 @@ Each project is supplemented by a modular academic curriculum on AI agents, inte
 ## 2. Project Code
 
 ### 📁 Project Structure
-
+📦 ai-agent-projects/
+┣ 📂 cat-dog-classifier/
+┃ ┗ 📜 cat_dog_classifier.ipynb
+┣ 📂 sentiment-analysis-imdb/
+┃ ┗ 📜 imdb_sentiment_analysis.ipynb
+┣ 📂 healthcare-prediction/
+┃ ┗ 📜 healthcare_cost_prediction.ipynb
+┣ 📜 requirements.txt
+┣ 📜 README.md
+┗ 📜 LICENSE
