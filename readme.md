@@ -129,7 +129,7 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**
 
-git clone https://github.com/yourusername/ai-agent-projects.git
+git clone (https://github.com/rajesh93471/AI-Agents/blob/main/Projects.md)
 cd ai-agent-projects
 Create a Virtual Environment (Optional but Recommended)
 
@@ -172,6 +172,5 @@ Feel free to use, modify, and distribute the code with proper attribution.
 AI agents offer immense potential in automating and enhancing decision-making processes.  
 By combining deep learning, NLP, and real-time interfaces, these projects demonstrate the real-world capabilities of modern AI systems.
 
-We encourage **contributions**, **feedback**, and **collaboration** to evolve this repository into a larger educational and experimental AI agent suite.
 
 > _"Artificial Intelligence is the new electricity."_ — **Andrew Ng**
