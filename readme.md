@@ -120,33 +120,26 @@ To extend these projects into more advanced AI systems:
 
 ## 8. Installation & Usage
 
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/ai-agent-projects.git
-cd ai-agent-projects
+-----
+## 9. Contributors
 
-# Install dependencies
-pip install -r requirements.txt
+- **Rajesh (Iconic)** – Developer, Researcher  
+- **Gradio** and **TensorFlow** Open Source Communities
 
-# Run Notebooks using Jupyter or Colab
-jupyter notebook
-##9. Contributors
-Rajesh (Iconic) – Developer, Researcher
+---
 
-Gradio and TensorFlow Open Source Communities
+## 10. License
 
-##10. License
-This repository is licensed under the MIT License.
+This repository is licensed under the **MIT License**.  
+Feel free to use, modify, and distribute the code with proper attribution.
 
-##11. Final Thoughts
-AI agents offer immense potential in automating and enhancing decision-making processes. By combining deep learning, NLP, and real-time interfaces, these projects demonstrate the real-world capabilities of modern AI systems.
+---
 
-We encourage contributions, feedback, and collaboration to evolve this repository into a larger educational and experimental AI agent suite.
+## 11. Final Thoughts
 
-"Artificial Intelligence is the new electricity." – Andrew Ng
+AI agents offer immense potential in automating and enhancing decision-making processes.  
+By combining deep learning, NLP, and real-time interfaces, these projects demonstrate the real-world capabilities of modern AI systems.
 
-vbnet
-Copy
-Edit
+We encourage **contributions**, **feedback**, and **collaboration** to evolve this repository into a larger educational and experimental AI agent suite.
 
-Let me know if you want this saved as a file (`README.md`) or pushed directly to your GitHub repo.
+> _"Artificial Intelligence is the new electricity."_ — **Andrew Ng**
