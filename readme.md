@@ -130,3 +130,23 @@ pip install -r requirements.txt
 
 # Run Notebooks using Jupyter or Colab
 jupyter notebook
+##9. Contributors
+Rajesh (Iconic) – Developer, Researcher
+
+Gradio and TensorFlow Open Source Communities
+
+##10. License
+This repository is licensed under the MIT License.
+
+##11. Final Thoughts
+AI agents offer immense potential in automating and enhancing decision-making processes. By combining deep learning, NLP, and real-time interfaces, these projects demonstrate the real-world capabilities of modern AI systems.
+
+We encourage contributions, feedback, and collaboration to evolve this repository into a larger educational and experimental AI agent suite.
+
+"Artificial Intelligence is the new electricity." – Andrew Ng
+
+vbnet
+Copy
+Edit
+
+Let me know if you want this saved as a file (`README.md`) or pushed directly to your GitHub repo.
