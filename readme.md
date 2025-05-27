@@ -14,9 +14,11 @@ Each project is supplemented by a modular academic curriculum on AI agents, inte
 
 ---
 
+
 ## 2. Project Code
 
 ### 📁 Project Structure
+```python
 📦 ai-agent-projects/
 ┣ 📂 cat-dog-classifier/
 ┃ ┗ 📜 cat_dog_classifier.ipynb
@@ -27,7 +29,7 @@ Each project is supplemented by a modular academic curriculum on AI agents, inte
 ┣ 📜 requirements.txt
 ┣ 📜 README.md
 ┗ 📜 LICENSE
-
+```
 ### 🧠 Core Components
 - Data preprocessing & exploration
 - Feature engineering
