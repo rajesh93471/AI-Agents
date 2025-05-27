@@ -117,8 +117,40 @@ To extend these projects into more advanced AI systems:
 | **Total** |  | **60 Hours** |
 
 ---
-
 ## 8. Installation & Usage
+
+### 🛠️ Prerequisites
+Ensure you have the following installed:
+- Python 3.7 or above
+- pip (Python package installer)
+- Jupyter Notebook or Google Colab access
+
+### 🔧 Installation Steps
+
+1. **Clone the Repository**
+
+git clone https://github.com/yourusername/ai-agent-projects.git
+cd ai-agent-projects
+Create a Virtual Environment (Optional but Recommended)
+
+2. **Create a Virtual Environment (Optional but Recommended)
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+Install Dependencies
+
+4. **Install Dependencies
+pip install -r requirements.txt
+Launch Jupyter Notebook
+
+5. **Launch Jupyter Notebook
+jupyter notebook
+**Open any of the following notebooks in your browser:
+
+cat_dog_classifier.ipynb
+
+imdb_sentiment_analysis.ipynb
+
+healthcare_cost_prediction.ipynb
 
 -----
 ## 9. Contributors
